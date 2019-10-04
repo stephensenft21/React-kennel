@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "",
+      "lastName": "",
+      "Email": "",
+      "Password": ""
+    },
+    {
+      "id": 1,
+      "firstName": "",
+      "lastName": "",
+      "Email": "",
+      "Password": ""
+    },
+    {
+      "id": 1,
+      "firstName": "",
+      "lastName": "",
+      "Email": "",
+      "Password": ""
+    },
+    {
+      "id": 1,
+      "firstName": "",
+      "lastName": "",
+      "Email": "",
+      "Password": ""
+    }
+  ],
+  "animalImages": [],
+  "animals": [
+    
+    {
+      "id": 2,
+      "name": "Hello",
+      "breed": "Pit Bull",
+      "employeeId": 1
+    },
+    {
+      "id": 3,
+      "name": "Genius",
+      "breed": "Pit Bull",
+      "employeeId": 1
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Fred",
+      "type": "Human"
+    },
+    {
+      "id": 3,
+      "name": "jungles",
+      "type": "Demon"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Jim",
+      "type": "Human"
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "type": "Human"
+    },
+    {
+      "id": 3,
+      "name": "Jill",
+      "type": "Human"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "7727 Hudson St.Concord, NH 03301"
+    },
+    {
+      "id": 3,
+      "name": "47 W. College StreetHope Mills, NC 28348"
+    }
+  ]
+}
